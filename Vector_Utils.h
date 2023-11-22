@@ -2,7 +2,7 @@
 
 typedef struct vector
 {
-    int x;
-    int y;
+    float x;
+    float y;
 }vector;
-vector CreateVector(int x, int y);
+vector CreateVector(float x, float y);
