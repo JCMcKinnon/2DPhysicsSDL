@@ -1,0 +1,3 @@
+﻿  01_hello_SDL.c
+C:\Users\Jason\Desktop\01_hello_SDL\01_hello_SDL.c(142,44): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  SDLProj.vcxproj -> C:\Users\Jason\Documents\NET\SDLProj\x64\Debug\SDLProj.exe
