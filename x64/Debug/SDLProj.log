@@ -3,7 +3,6 @@ C:\Users\Jason\Desktop\01_hello_SDL\01_hello_SDL.c(60,15): warning C4244: '=': c
 C:\Users\Jason\Desktop\01_hello_SDL\01_hello_SDL.c(61,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
 C:\Users\Jason\Desktop\01_hello_SDL\01_hello_SDL.c(77,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 C:\Users\Jason\Desktop\01_hello_SDL\01_hello_SDL.c(85,23): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
-C:\Users\Jason\Desktop\01_hello_SDL\01_hello_SDL.c(99,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
 C:\Users\Jason\Desktop\01_hello_SDL\01_hello_SDL.c(157,45): warning C4244: 'function': conversion from 'size_t' to 'float', possible loss of data
 C:\Users\Jason\Desktop\01_hello_SDL\01_hello_SDL.c(158,46): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
   SDLProj.vcxproj -> C:\Users\Jason\Documents\NET\SDLProj\x64\Debug\SDLProj.exe
